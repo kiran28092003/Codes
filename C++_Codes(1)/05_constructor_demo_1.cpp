@@ -8,7 +8,7 @@ class Date1
         int month;
         int year;
     public:
-        Date()
+        Date1()
         {
             this->day=1;
             this->month=1;
@@ -29,7 +29,7 @@ class Date2{
         Date2(): day(1),month(1),year(1970){   
         }
         void show(){
-            pintf("%d/%d/%d\n",this->day,this->month,this->year);
+            printf("%d/%d/%d\n",this->day,this->month,this->year);
         }
 };
 void test1();
@@ -42,8 +42,7 @@ int main(void){
 void test1(void)
 {
     Date1 myDate1;
-
-    puts(""test1():entered");
+    puts("test1():entered");
     myDate1.show();
     puts("test1():leaving");
 }
