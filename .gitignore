@@ -33,3 +33,7 @@ _pycache_/
 # Other typical ignores
 *.log
 *.tmp
+# images,certificates
+*.jpg
+*.jpeg
+
