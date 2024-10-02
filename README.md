@@ -8,10 +8,8 @@ This repository contains all the coding exercises, assignments, and projects com
 This repository is a comprehensive collection of all my work throughout the coding classes, organized by each lecture and topic. It demonstrates the breadth of programming concepts covered during the course.
 
 ## Image
-![Class Image](Codes/C_language/Technorbit.jpg)
 
-> (Replace the path above with the actual path or URL of your image)
-
+> ![Technorbit](https://github.com/user-attachments/assets/cd67cf64-78cc-44ab-945d-165d6fccec70)
 
 ## Features
 
