@@ -28,7 +28,7 @@ This repository serves as a personal log of my progress in coding. Each submissi
 
 ## Live Demo
 
-You can view a live demo of the code running here: [Live Demo](https://github.com/kiran28092003.io/Codes)
+You can view a live demo of the code running here: [Live Demo](https://github.com/kiran28092003/Codes)
 
 ## Author
 
