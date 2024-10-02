@@ -4,12 +4,14 @@
         
     <h2>Overview</h2>
         This repository is a comprehensive collection of all my work throughout the coding classes, organized by each lecture and topic. It demonstrates the breadth of programming concepts covered during the course.
-        
+        <br>
+        <hr>
         <img src="path-to-your-image.jpg" alt="Class Image">
         <blockquote>
             
         </blockquote>
-        
+        <br>
+        <hr>
         <h2>Features</h2>
         <ul>
             <li>Regularly updated code from each lecture.</li>
@@ -17,6 +19,8 @@
             <li>Examples include assignments, projects, and coding exercises.</li>
             <li>All code files are well-commented for better understanding.</li>
         </ul>
+        <br>
+        <hr>
         
         <h2>Keeping Track of My Coding Journey</h2>
         <p>This repository serves as a personal log of my progress in coding. Each submission reflects the concepts learned during each lecture and showcases my development as a programmer. By documenting my journey, I aim to:</p>
