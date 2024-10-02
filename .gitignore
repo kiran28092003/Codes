@@ -1,0 +1,35 @@
+# Ignore C, C++, Java, and Python compiled and executable files
+
+# C/C++ object files
+*.o
+*.obj
+
+# C/C++ executable files
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# Java class files
+*.class
+
+# Java JAR and WAR files
+*.jar
+*.war
+
+# Python compiled files
+_pycache_/
+*.pyc
+*.pyo
+
+# Ignore build directories
+/build/
+/dist/
+/target/
+/bin/
+/obj/
+
+# Other typical ignores
+*.log
+*.tmp
