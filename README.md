@@ -1,54 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Coding Journey - TECHNORBIT-INFOSYSTEMS</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-        blockquote {
-            font-style: italic;
-            color: #555;
-            padding: 10px;
-            border-left: 4px solid #ccc;
-            background-color: #f9f9f9;
-        }
-        a {
-            color: #0073e6;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Coding Journey - TECHNORBIT-INFOSYSTEMS</h1>
+ <h1>Coding Journey - TECHNORBIT-INFOSYSTEMS</h1>
         
-        <p>This repository contains all the coding exercises, assignments, and projects completed during my time at <strong>TECHNORBIT-INFOSYSTEMS</strong>.</p>
+        This repository contains all the coding exercises, assignments, and projects completed during my time at <strong>TECHNORBIT-INFOSYSTEMS</strong>.
         
-        <h2>Overview</h2>
-        <p>This repository is a comprehensive collection of all my work throughout the coding classes, organized by each lecture and topic. It demonstrates the breadth of programming concepts covered during the course.</p>
+    <h2>Overview</h2>
+        This repository is a comprehensive collection of all my work throughout the coding classes, organized by each lecture and topic. It demonstrates the breadth of programming concepts covered during the course.
         
         <img src="path-to-your-image.jpg" alt="Class Image">
         <blockquote>
-            (Replace the path above with the actual path or URL of your image)
+            
         </blockquote>
         
         <h2>Features</h2>
