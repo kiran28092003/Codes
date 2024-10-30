@@ -1,11 +1,12 @@
 # Coding Journey - TECHNORBIT-INFOSYSTEMS
 
-This repository contains all the coding exercises, assignments, and projects completed during my time at *TECHNORBIT-INFOSYSTEMS*.
+📚 Documenting my daily coding journey at Technorbit Infosystems. Each day, I’m adding code solutions from our lectures to track what I’ve learned and achieved. 🚀 #CodingClasses #LearningJourney
+
+![Technorbit ](https://github.com/user-attachments/assets/cd67cf64-78cc-44ab-945d-165d6fccec70)
 
 ## Quick Access Links
 
 - **[Overview](#overview)**
-- **[Image](#image)**
 - **[Features](#features)**
 - **[Keeping Track of My Coding Journey](#keeping-track-of-my-coding-journey)**
 - **[Live Demo](#live-demo)**
@@ -15,10 +16,6 @@ This repository contains all the coding exercises, assignments, and projects com
 ## Overview
 
 This repository is a comprehensive collection of all my work throughout the coding classes, organized by each lecture and topic. It demonstrates the breadth of programming concepts covered during the course.
-
-## Image
-
-![Technorbit](https://github.com/user-attachments/assets/cd67cf64-78cc-44ab-945d-165d6fccec70)
 
 ## Features
 
