@@ -1,3 +1,4 @@
+//its a trying code...try runnable code here first and then commit
 #include<stdio.h>
 void main()
 {
