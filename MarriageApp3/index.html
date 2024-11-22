@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Client Side Validation</title>
+</head>
+<body>
+<h1 style="color: red; text-align : center"> Client side form validation</h1>
+
+<form name="frm" action="valid" method="POST" onsubmit="return validate(this)">
+Person Name<input type="text" name="pname"><span id="pnameerr" style="color:red"></span><br><br>
+Person age<input type="text" name="page"><span id="pageerr" style="color:red"></span><br><br>
+Person mob<input type="text" name="pmob"><span id="pmoberr" style="color:red"></span><br><br>
+
+<input type="submit" value="Check Eligibility">
+<input type="hidden" name="validateflag" value="false">
+</form>
+<script lang="Javascript" src="JS/validate.js">
+	
+</script>
+
+</body>
+</html>
