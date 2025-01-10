@@ -1,0 +1,39 @@
+<h1 style="color: red; text-align: center;">HTML to Servlet Communication Using JavaScript</h1>
+<form name="frm" action="http://localhost:2525/CapitalApp/capitalurl" method="GET">
+    <select name="state" onchange="fun()">
+        <option value="-1" selected>Select State:</option>
+        <option value="0">Andhra Pradesh</option>
+        <option value="1">Arunachal Pradesh</option>
+        <option value="2">Assam</option>
+        <option value="3">Bihar</option>
+        <option value="4">Chhattisgarh</option>
+        <option value="5">Goa</option>
+        <option value="6">Gujarat</option>
+        <option value="7">Haryana</option>
+        <option value="8">Himachal Pradesh</option>
+        <option value="9">Jharkhand</option>
+        <option value="10">Karnataka</option>
+        <option value="11">Kerala</option>
+        <option value="12">Madhya Pradesh</option>
+        <option value="13">Maharashtra</option>
+        <option value="14">Manipur</option>
+        <option value="15">Meghalaya</option>
+        <option value="16">Mizoram</option>
+        <option value="17">Nagaland</option>
+        <option value="18">Odisha</option> 
+        <option value="19">Punjab</option>
+        <option value="20">Rajasthan</option>
+        <option value="21">Sikkim</option>
+        <option value="22">Tamil Nadu</option>
+        <option value="23">Telangana</option>
+        <option value="24">Tripura</option>
+        <option value="25">Uttar Pradesh</option>
+        <option value="26">Uttarakhand</option>
+        <option value="27">West Bengal</option>
+    </select>
+</form>
+<script lang="javascript">
+    function fun() {
+        document.forms['frm'].submit(); // Explicitly reference the form to avoid ambiguity
+    }
+</script>
