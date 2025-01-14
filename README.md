@@ -46,4 +46,4 @@ Coding Enthusiast | [LinkedIn](https://www.linkedin.com/in/kiran-tajanpure-a7509
 
 For any queries, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/kiran-tajanpure-a7509225b) or email me at [kirantajanpure48@gmail.com](mailto:kirantajanpure48@gmail.com).
 
-Feel free to explore my journey and the projects I've worked on!
+Feel free to explore my journey and various projects I've worked on!
