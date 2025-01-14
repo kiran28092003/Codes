@@ -1,7 +1,7 @@
 # Coding Journey - TECHNORBIT-INFOSYSTEMS
 This repository contains all the coding exercises, assignments, and projects completed during my time at *TECHNORBIT-INFOSYSTEMS*.
 <br>
-## Auther-Kiran Tajanpure
+## Author-Kiran Tajanpure
 
 ## Overview
 
